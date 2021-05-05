@@ -2,7 +2,7 @@
 
 Can only be run in python3
 
-![IMG](we.png)
+![IMG](20210505_110000.jpg)
 
 ## Install
 ```
