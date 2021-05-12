@@ -8,10 +8,10 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : moonton.py                              #
-# Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
-# Facebook       : https://www.facebook.com/dulahz         #
-# Telegram       : https://t.me/DulLah                     #
+# Author         : zhicco158                               #
+# Github         : https://github.com/zhicco158            #
+# Facebook     : https://www.facebook.com/zhicco.j.belva.1 #                                    
+# Telegram       : https://t.me/zhicco                     #
 # Python version : 3.7++                                   #
 ############################################################
 
@@ -66,10 +66,10 @@ class MOONTON:
 |V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
 | |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
 ---------------------------------------------
-          - Created By (DulLah) -
+          - Created By (zhicco) -
 ---------------------------------------------\n''')
 ##########################################
-# Please don't remove the author name :( #
+# semoga selalu bisa scriptnya :)#
 ##########################################
 
   def auto_upper(self, string):
